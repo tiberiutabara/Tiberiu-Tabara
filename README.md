@@ -6,6 +6,8 @@ Facts about me:
 :mortar_board: I studied Front-End Web Development at [Noroff](https://www.noroff.no/) <br />
 :computer: My lastest project is [Holidaze](https://holidaze-tab.netlify.app/) <br />
 :briefcase: I am currently open for job opportunities <br />
+:book: Always studying for becoming better <br />
+:speech_balloon: Can answer any questions you have about me
 
 #### My stack includes:
 
